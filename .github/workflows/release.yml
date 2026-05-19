@@ -1,0 +1,72 @@
+name: 7zip release
+
+on:
+  push:
+    tags:
+      - "v*"
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install 7zip
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full
+
+      - name: Compress collections
+        run: |
+          mkdir -p dist
+
+          collections=(
+            "collection 1"
+            "collection 2"
+            "collection 3"
+            "collection 4"
+            "collection 5"
+          )
+
+          found=false
+
+          for dir in "${collections[@]}"
+          do
+            if [ -d "$dir" ] && [ "$(find "$dir" -type f | wc -l)" -gt 0 ]; then
+              found=true
+
+              echo "Compressing $dir"
+
+              7z a \
+                -t7z \
+                -mx=5 \
+                -m0=lzma2 \
+                "dist/${dir}.7z" "$dir" \
+                -xr'!.DS_Store' \
+                -xr'!Thumbs.db'
+            else
+              echo "Skipping empty or missing folder: $dir"
+            fi
+          done
+
+          if [ "$found" = false ]; then
+            echo "No valid collections found"
+            exit 1
+          fi
+
+      - name: Show generated archives
+        run: ls -lh dist
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*
+          generate_release_notes: true
+          fail_on_unmatched_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
