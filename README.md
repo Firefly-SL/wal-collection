@@ -10,10 +10,10 @@
 
 ## Contribution
 
-> visit [contributing](/CONTRIBUTING.md) and read [rules](/CONTRIBUTING.md#the-rules)
+> visit [contributing](https://github.com/Firefly-SL/wal-collection?tab=contributing-ov-file) and read [rules](https://github.com/Firefly-SL/wal-collection?tab=contributing-ov-file#the-rules)
 
-1. [Standard method](/CONTRIBUTING.md#standard-method)
-2. [If you don't want to fork the entire repository](/CONTRIBUTING.md#if-you-dont-want-to-fork-the-entire-repo)
+1. [standard method](https://github.com/Firefly-SL/wal-collection?tab=contributing-ov-file#standard-method)
+2. [if you don't want to fork the entire repository](https://github.com/Firefly-SL/wal-collection?tab=contributing-ov-file#if-you-dont-want-to-fork-the-entire-repo)
 
 ## License
 
