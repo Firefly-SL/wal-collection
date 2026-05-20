@@ -12,7 +12,6 @@
 ![Art image (3).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Art image (3).png>)
 ![Art image (4).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Art image (4).jpg>)
 ![Art image (6).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Art image (6).jpg>)
-![captain_price.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/captain_price.jpg>)
 ![Japan image (1).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (1).jpg>)
 ![Japan image (10).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (10).jpg>)
 ![Japan image (11).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (11).jpg>)
@@ -23,6 +22,7 @@
 ![Japan image (16).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (16).jpg>)
 ![Japan image (17).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (17).jpg>)
 ![Japan image (18).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (18).jpg>)
+![Japan image (19).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Japan image (19).jpg>)
 
 
 [← Previous](page1.md) | 

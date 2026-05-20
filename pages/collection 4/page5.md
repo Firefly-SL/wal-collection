@@ -3,9 +3,6 @@
  | [Next →](page6.md)
 
 
-![Night image (16).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Night image (16).jpg>)
-![Night image (2).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Night image (2).jpg>)
-![Night image (3).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Night image (3).jpg>)
 ![Night image (4).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Night image (4).jpg>)
 ![Night image (5).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Night image (5).jpg>)
 ![Night image (8).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Night image (8).jpg>)
@@ -23,6 +20,9 @@
 ![nordic image (19).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (19).png>)
 ![nordic image (2).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (2).png>)
 ![nordic image (20).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (20).png>)
+![nordic image (21).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (21).png>)
+![nordic image (22).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (22).png>)
+![nordic image (23).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (23).png>)
 
 
 [← Previous](page4.md) | 

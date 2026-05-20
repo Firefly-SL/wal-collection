@@ -3,9 +3,6 @@
  | [Next →](page7.md)
 
 
-![nordic image (21).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (21).png>)
-![nordic image (22).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (22).png>)
-![nordic image (23).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (23).png>)
 ![nordic image (24).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (24).png>)
 ![nordic image (25).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (25).png>)
 ![nordic image (26).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/nordic image (26).jpg>)
@@ -20,9 +17,12 @@
 ![Psychedelic image (5).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Psychedelic image (5).jpg>)
 ![Psychedelic image (6).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Psychedelic image (6).jpg>)
 ![Psychedelic image (9).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Psychedelic image (9).jpg>)
-![python-minim.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/python-minim.png>)
 ![Retro image (1).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Retro image (1).jpg>)
 ![Retro image (10).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Retro image (10).jpg>)
+![Retro image (11).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Retro image (11).jpg>)
+![Retro image (12).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Retro image (12).jpg>)
+![Retro image (13).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Retro image (13).jpg>)
+![Retro image (14).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Retro image (14).jpg>)
 
 
 [← Previous](page5.md) | 
