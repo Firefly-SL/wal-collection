@@ -20,6 +20,9 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y p7zip-full
+      
+      - name: Initial size
+        run: du -hc collection*
 
       - name: Compress collections
         run: |
@@ -50,7 +53,7 @@ jobs:
                 -xr'!.DS_Store' \
                 -xr'!Thumbs.db'
             else
-              echo "Skipping empty or missing folder: $dir"
+              echo "Skipping empty folder: $dir"
             fi
           done
 
@@ -59,8 +62,8 @@ jobs:
             exit 1
           fi
 
-      - name: Show generated archives
-        run: ls -lh dist
+      - name: Size after compression
+        run: du -hc dist/*
 
       - name: Create release
         uses: softprops/action-gh-release@v2
