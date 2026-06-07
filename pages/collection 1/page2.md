@@ -1,5 +1,5 @@
 [← Previous](page1.md) | 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
 ![rad_samurai.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/rad_samurai.jpg>)
@@ -14,5 +14,5 @@
 
 
 [← Previous](page1.md) | 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
