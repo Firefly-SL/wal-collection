@@ -16,7 +16,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Release Tag
         run: echo "RELEASE_TAG=v$(date +%Y.%m.%d)" >> $GITHUB_ENV
@@ -65,7 +65,7 @@ jobs:
         run: du -hc dist/*
 
       - name: Create release
-        uses: softprops/action-gh-release@v2
+        uses: softprops/action-gh-release@v3
         with:
           files: dist/*
           tag_name: ${{ env.RELEASE_TAG }}
