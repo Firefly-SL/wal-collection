@@ -1,0 +1,76 @@
+name: 7zip Release
+
+on:
+  workflow_dispatch:
+    inputs:
+      release_description:
+        description: 'description'
+        required: false
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Release Tag
+        run: echo "RELEASE_TAG=v$(date +%Y.%m.%d)" >> $GITHUB_ENV
+
+      - name: Install 7zip
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y p7zip-full
+      
+      - name: Initial size
+        run: du -hc *collection* || echo "No matching items found"
+
+      - name: Compress collections
+        run: |
+          mkdir -p dist
+
+          found=false
+          shopt -s nocaseglob
+
+          for dir in *collection*/
+          do
+            dir="${dir%/}"
+
+            if [ -d "$dir" ] && [ "$(find "$dir" -type f | wc -l)" -gt 0 ]; then
+              found=true
+              echo "Compressing $dir"
+
+              7z a \
+                -t7z \
+                -mx=5 \
+                -m0=lzma2 \
+                "dist/${dir}.7z" "$dir" \
+                -xr'!.DS_Store' \
+                -xr'!Thumbs.db'
+            else
+              echo "Skipping folder: $dir"
+            fi
+          done
+
+          if [ "$found" = false ]; then
+            echo "No valid collection found or they are empty. cheak again idiot."
+            exit 1
+          fi
+
+      - name: Size after compression
+        run: du -hc dist/*
+
+      - name: Create release
+        uses: softprops/action-gh-release@v2
+        with:
+          files: dist/*
+          tag_name: ${{ env.RELEASE_TAG }}
+          body: ${{ github.event.inputs.release_description }}
+          generate_release_notes: true 
+          fail_on_unmatched_files: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
