@@ -6,6 +6,9 @@
 
   - [page1](<collection 1/page1.md>)
   - [page2](<collection 1/page2.md>)
+  - [page3](<collection 1/page3.md>)
+  - [page4](<collection 1/page4.md>)
+  - [page5](<collection 1/page5.md>)
 
 
 ## collection 2
