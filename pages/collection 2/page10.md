@@ -1,5 +1,5 @@
 [← Previous](page9.md) | 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
 ![mocha65.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha65.png>)
@@ -24,5 +24,5 @@
 
 
 [← Previous](page9.md) | 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 

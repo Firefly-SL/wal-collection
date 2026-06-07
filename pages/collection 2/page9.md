@@ -1,5 +1,5 @@
 [← Previous](page8.md) | 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
  | [Next →](page10.md)
 
 
@@ -26,6 +26,6 @@
 
 
 [← Previous](page8.md) | 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
  | [Next →](page10.md)
 

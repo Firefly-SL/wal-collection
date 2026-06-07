@@ -1,4 +1,4 @@
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
  | [Next →](page2.md)
 
 
@@ -24,6 +24,6 @@
 ![python-minim.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/python-minim.png>)
 
 
-[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)
+[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
  | [Next →](page2.md)
 
