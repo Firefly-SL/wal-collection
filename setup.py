@@ -56,7 +56,7 @@ def navigation_links(page_num, total_pages):
         lines.append(f"[← Previous](page{page_num - 1}.md) | ")
 
     lines.append(
-        "[Index Menu](https://github.com/Firefly-SL/wal-collection/tree/testing/pages/index.md)"
+        "[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)"
     )
 
     if page_num < total_pages:
