@@ -3,6 +3,9 @@
  | [Next →](page5.md)
 
 
+![pexel_something.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/pexel_something.jpg>)
+![pink_flower.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/pink_flower.jpg>)
+![pixel_character_napping.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/pixel_character_napping.png>)
 ![pixelart_pagoda.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/pixelart_pagoda.jpg>)
 ![purple_forest.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/purple_forest.jpg>)
 ![purpled_night.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/purpled_night.jpg>)
@@ -20,9 +23,6 @@
 ![rocket_red_sky.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/rocket_red_sky.jpg>)
 ![rocks_in_the_water.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/rocks_in_the_water.jpg>)
 ![ruine_white_dear_night.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/ruine_white_dear_night.png>)
-![samurai_in_squares.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/samurai_in_squares.jpg>)
-![sheeps_in_the_feild.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/sheeps_in_the_feild.png>)
-![ships_red_atmosphere.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/ships_red_atmosphere.jpg>)
 
 
 [← Previous](page3.md) | 

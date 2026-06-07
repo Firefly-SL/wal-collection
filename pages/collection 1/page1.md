@@ -17,11 +17,11 @@
 ![a_stone_stairs_in_a_forest.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/a_stone_stairs_in_a_forest.jpg>)
 ![a_street_with_buildings_and_power_lines.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/a_street_with_buildings_and_power_lines.jpg>)
 ![a_video_game_screen_with_trees_and_bushes.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/a_video_game_screen_with_trees_and_bushes.jpg>)
+![abstract_gradient_orange.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/abstract_gradient_orange.jpg>)
 ![abstract_maze.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/abstract_maze.png>)
 ![angel_figure_with_long_wings.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/angel_figure_with_long_wings.jpg>)
 ![anime_cloud_sunflower.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/anime_cloud_sunflower.png>)
 ![autumn_frederic_edwin_church.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/autumn_frederic_edwin_church.jpg>)
-![black_while_girl.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/black_while_girl.png>)
 
 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)

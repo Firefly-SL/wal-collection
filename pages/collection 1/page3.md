@@ -3,6 +3,8 @@
  | [Next →](page4.md)
 
 
+![forest_sky_view.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/forest_sky_view.png>)
+![green_feild_house_blue_sky.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/green_feild_house_blue_sky.jpg>)
 ![hand_holding_a_sword.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/hand_holding_a_sword.jpg>)
 ![hand_staute_red_warrior.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/hand_staute_red_warrior.jpg>)
 ![hazy_forest.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/hazy_forest.jpg>)
@@ -21,8 +23,6 @@
 ![okabe_with_kurisu.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/okabe_with_kurisu.jpg>)
 ![osaka_castle_with_a_green_roof.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/osaka_castle_with_a_green_roof.jpg>)
 ![path_nature.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/path_nature.jpg>)
-![pexel_something.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/pexel_something.jpg>)
-![pixel_character_napping.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/pixel_character_napping.png>)
 
 
 [← Previous](page2.md) | 

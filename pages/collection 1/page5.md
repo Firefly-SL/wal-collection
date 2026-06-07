@@ -2,6 +2,9 @@
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
+![samurai_in_squares.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/samurai_in_squares.jpg>)
+![sheeps_in_the_feild.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/sheeps_in_the_feild.png>)
+![ships_red_atmosphere.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/ships_red_atmosphere.jpg>)
 ![skeleton_scythe_red_bird.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/skeleton_scythe_red_bird.png>)
 ![smaurai_in_red.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/smaurai_in_red.jpg>)
 ![smoky_forest_mountain.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/smoky_forest_mountain.jpg>)
