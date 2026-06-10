@@ -1,22 +1,29 @@
-> NOTE: This is my personal collection of wallpapers from github and other places. so all the credits go to their respective artists and collectors.
+<div align="center">
+  
+# 📂 Wal-Collection
 
-## [Index Menu](/pages/index.md)
+A collection of wallpapers collected from various sources across the internet.
 
-### Credits
+[📖 Browse Collections](./pages/index.md)
 
-- collection 1: my personal collection from other collections and some wallpapers i found online
-- collection 2: 🙂
-- collection 3: 🙂
-- collection 4: outdated version of [wallpaper collection](https://codeberg.org/exorcist/wallpapers) by exorcist
-- collection 5: for contribution
+</div>
 
-### Contribution
+---
 
-> visit [contributing](/CONTRIBUTING.md)
+## 🎨 Credits
 
-1. [standard method](/CONTRIBUTING.md#standard-method)
-2. [if you don't want to fork the entire repository](/CONTRIBUTING.md#if-you-dont-want-to-fork-the-entire-repo)
+All wallpapers in this repository belongs to their respective artists and creators.
 
-### License
+This is a personal collection of wallpapers. Credit goes to the original creators and contributors.
 
-This project falls under the [MIT](/LICENSE) license
+## 🤝 Contributing
+
+Contributions are very appreciated,
+
+If you'd like to add wallpapers, visit the [Contributing Guide](./CONTRIBUTING).
+
+---
+
+## 📄 License
+
+This collection is distributed under the [MIT License](./LICENSE).
