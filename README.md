@@ -16,7 +16,7 @@ All wallpapers in this repository belongs to their respective artists and creato
 
 This is a personal collection of wallpapers. Credit goes to the original creators and contributors.
 
-## 🤝 Contributing
+## 📒 Contributing
 
 Contributions are very appreciated,
 
