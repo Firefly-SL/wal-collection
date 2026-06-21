@@ -26,8 +26,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y p7zip-full
       
-      - name: Initial size
-        run: du -hc *collection*
+      - name: store initial size
+        run: du -hc *collection* > initial_size
 
       - name: Compress collections
         run: |
@@ -61,8 +61,13 @@ jobs:
             exit 1
           fi
 
-      - name: Size after compression
-        run: du -hc dist/*
+      - name: Size comparison
+        run: |
+          echo "Before compression:"
+          cat initial_size
+          printf '\n----------------------\n\n'
+          echo "After compression:"
+          du -hc dist/*
 
       - name: Create release
         uses: softprops/action-gh-release@v3
