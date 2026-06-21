@@ -53,7 +53,7 @@ def navigation_links(page_num, total_pages):
     lines = []
 
     if page_num > 1:
-        lines.append(f"[← Previous](page {page_num - 1}.md) | ")
+        lines.append(f"[← Previous](<page {page_num - 1}.md>) | ")
 
     lines.append(
         "[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)"
