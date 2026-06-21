@@ -1,4 +1,4 @@
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
  | [Next →](<page 4.md>)
 
@@ -25,7 +25,7 @@
 ![Red1.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 10/Red1.png>)
 
 
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
  | [Next →](<page 4.md>)
 

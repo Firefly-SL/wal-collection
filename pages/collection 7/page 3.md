@@ -1,4 +1,4 @@
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -14,6 +14,6 @@
 ![wooden-table-coffee.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 7/wooden-table-coffee.jpg>)
 
 
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 

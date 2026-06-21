@@ -1,4 +1,4 @@
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -14,6 +14,6 @@
 ![teapot-2.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 13/teapot-2.jpg>)
 
 
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 

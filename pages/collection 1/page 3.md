@@ -1,4 +1,4 @@
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -11,6 +11,6 @@
 ![witch_lady_with_flute_and_flying_blue_dears.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/witch_lady_with_flute_and_flying_blue_dears.jpg>)
 
 
-[← Previous](<page 2.md>) | 
+[← Previous](page 2.md) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
