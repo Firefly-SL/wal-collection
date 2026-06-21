@@ -21,7 +21,7 @@ def build_index(base_output: Path):
         collection_name = collection_dir.name
         lines.append(f"## {collection_name}\n")
 
-        pages = sorted(collection_dir.glob("page*.md"), key=extract_page_number)
+        pages = sorted(collection_dir.glob("page *.md"), key=extract_page_number)
 
         for page in pages:
             page_name = page.stem
@@ -53,14 +53,14 @@ def navigation_links(page_num, total_pages):
     lines = []
 
     if page_num > 1:
-        lines.append(f"[← Previous](page{page_num - 1}.md) | ")
+        lines.append(f"[← Previous](<page {page_num - 1}.md>) | ")
 
     lines.append(
         "[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)"
     )
 
     if page_num < total_pages:
-        lines.append(f" | [Next →](page{page_num + 1}.md)")
+        lines.append(f" | [Next →](<page {page_num + 1}.md>)")
     lines.append("\n")
 
     return lines
@@ -96,7 +96,7 @@ def process_collection(collection_folder: Path, base_output: Path):
     output_dir.mkdir(parents=True, exist_ok=True)
 
     for idx, page_images in enumerate(pages, start=1):
-        page_file = output_dir / f"page{idx}.md"
+        page_file = output_dir / f"page {idx}.md"
         write_page(page_file, page_images, idx, total_pages)
 
     print(f"{collection_folder.name}: {total_pages} pages")
