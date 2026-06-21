@@ -1,4 +1,4 @@
-[← Previous](page 1.md) | 
+[← Previous](<page 1.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -9,10 +9,9 @@
 ![Psychedelic image (1).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/Psychedelic image (1).png>)
 ![rocks_in_the_water.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/rocks_in_the_water.jpg>)
 ![some_old_house_nord.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/some_old_house_nord.jpg>)
-![tools.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/tools.jpg>)
 ![wolf.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 4/wolf.jpg>)
 
 
-[← Previous](page 1.md) | 
+[← Previous](<page 1.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 

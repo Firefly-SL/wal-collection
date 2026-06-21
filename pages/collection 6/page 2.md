@@ -1,7 +1,9 @@
-[← Previous](page 1.md) | 
+[← Previous](<page 1.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
+![Japan image (22).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/Japan image (22).jpg>)
+![mocha1.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/mocha1.png>)
 ![mocha32.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/mocha32.png>)
 ![mocha9.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/mocha9.png>)
 ![mushrooms.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/mushrooms.jpg>)
@@ -18,9 +20,10 @@
 ![skull-machine.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/skull-machine.jpg>)
 ![Space & Planets image (6).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/Space & Planets image (6).jpg>)
 ![square.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/square.jpg>)
+![table.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/table.jpg>)
 ![waterfall.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 6/waterfall.jpg>)
 
 
-[← Previous](page 1.md) | 
+[← Previous](<page 1.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 

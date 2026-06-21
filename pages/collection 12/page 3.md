@@ -1,4 +1,4 @@
-[← Previous](page 2.md) | 
+[← Previous](<page 2.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -8,6 +8,6 @@
 ![Space & Planets image (8).jpeg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 12/Space & Planets image (8).jpeg>)
 
 
-[← Previous](page 2.md) | 
+[← Previous](<page 2.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 

@@ -1,4 +1,4 @@
-[← Previous](page 3.md) | 
+[← Previous](<page 3.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -17,6 +17,6 @@
 ![yet_another_pathway.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 10/yet_another_pathway.jpg>)
 
 
-[← Previous](page 3.md) | 
+[← Previous](<page 3.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
