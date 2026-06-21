@@ -21,6 +21,9 @@ jobs:
         with:
           python-version: '3.13'
 
+      - name: Count wallpapers
+        run: find . -type f \( -iname '*.png' -o -iname '*.jpg' -o -iname '*.jpeg' -o -iname '*.webp' -o -iname '*.gif' \) wc -l
+
       - name: Run the script
         run: python setup.py
 

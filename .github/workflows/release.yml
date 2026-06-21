@@ -27,7 +27,7 @@ jobs:
           sudo apt-get install -y p7zip-full
       
       - name: Initial size
-        run: du -hc *collection* || echo "No matching items found"
+        run: du -hc *collection*
 
       - name: Compress collections
         run: |
