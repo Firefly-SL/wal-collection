@@ -4,7 +4,7 @@ from pathlib import Path
 IMAGE_EXTENSIONS = {".jpg", ".jpeg", ".png"}
 
 
-def extract_page_number(path: Path) -> float:
+def extract_number(path: Path) -> float:
     match = re.search(r"\d+", path.stem)
     return float(match.group()) if match else float("inf")
 
@@ -14,14 +14,14 @@ def build_index(base_output: Path):
     lines = ["# Global Index Menu\n"]
     lines.append("> word of advice: press any page1\n")
 
-    for collection_dir in sorted(base_output.iterdir()):
+    for collection_dir in sorted(base_output.iterdir(), key=extract_number):
         if not collection_dir.is_dir():
             continue
 
         collection_name = collection_dir.name
         lines.append(f"## {collection_name}\n")
 
-        pages = sorted(collection_dir.glob("page *.md"), key=extract_page_number)
+        pages = sorted(collection_dir.glob("page *.md"), key=extract_number)
 
         for page in pages:
             page_name = page.stem
@@ -53,7 +53,7 @@ def navigation_links(page_num, total_pages):
     lines = []
 
     if page_num > 1:
-        lines.append(f"[← Previous](<page {page_num - 1}.md>) | ")
+        lines.append(f"[← Previous](page {page_num - 1}.md) | ")
 
     lines.append(
         "[Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)"
