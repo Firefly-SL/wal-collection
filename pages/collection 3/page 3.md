@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 [← Previous](<page 2.md>) | 
+=======
+[← Previous](page 2.md) | 
+>>>>>>> 9335966ae4ae2dc5b3fab1cd911c67a855334afa
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
 
@@ -18,6 +22,10 @@
 ![waterfall_turtle.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 3/waterfall_turtle.png>)
 
 
+<<<<<<< HEAD
 [← Previous](<page 2.md>) | 
+=======
+[← Previous](page 2.md) | 
+>>>>>>> 9335966ae4ae2dc5b3fab1cd911c67a855334afa
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
 
