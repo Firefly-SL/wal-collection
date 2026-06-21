@@ -15,6 +15,7 @@
 ![Space & Planets image (3).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/Space & Planets image (3).jpg>)
 ![Space & Planets image (9).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/Space & Planets image (9).jpg>)
 ![street.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/street.jpg>)
+![tools.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/tools.jpg>)
 ![town.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/town.jpg>)
 ![vagabond_sword_water.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/vagabond_sword_water.jpg>)
 ![wood.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/wood.jpg>)

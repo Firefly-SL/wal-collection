@@ -3,6 +3,7 @@
 
 
 ![a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/a_cartoon_of_a_girl_with_blue_hair_and_a_skull.jpg>)
+![a_oni_girl_with_red_background.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/a_oni_girl_with_red_background.jpg>)
 ![a_rocket_in_the_sky.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/a_rocket_in_the_sky.jpg>)
 ![abstract_gradient_orange.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/abstract_gradient_orange.jpg>)
 ![abstract_maze.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/abstract_maze.png>)
@@ -19,9 +20,8 @@
 ![darth_vader_force_choking.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/darth_vader_force_choking.png>)
 ![excalibur_lake.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/excalibur_lake.jpg>)
 ![eyes_vagabond.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/eyes_vagabond.jpg>)
+![fd3s_nature.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/fd3s_nature.jpg>)
 ![forest_road.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/forest_road.jpg>)
-![hand_staute_red_warrior.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/hand_staute_red_warrior.jpg>)
-![japan_very_nice_view.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/japan_very_nice_view.png>)
 
 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
