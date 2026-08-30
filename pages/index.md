@@ -39,7 +39,6 @@
 
   - [page 1](<collection 5/page 1.md>)
   - [page 2](<collection 5/page 2.md>)
-  - [page 3](<collection 5/page 3.md>)
 
 
 ## collection 6
@@ -71,32 +70,4 @@
   - [page 1](<collection 9/page 1.md>)
   - [page 2](<collection 9/page 2.md>)
   - [page 3](<collection 9/page 3.md>)
-
-
-## collection 10
-
-  - [page 1](<collection 10/page 1.md>)
-  - [page 2](<collection 10/page 2.md>)
-  - [page 3](<collection 10/page 3.md>)
-  - [page 4](<collection 10/page 4.md>)
-
-
-## collection 11
-
-  - [page 1](<collection 11/page 1.md>)
-  - [page 2](<collection 11/page 2.md>)
-
-
-## collection 12
-
-  - [page 1](<collection 12/page 1.md>)
-  - [page 2](<collection 12/page 2.md>)
-  - [page 3](<collection 12/page 3.md>)
-
-
-## collection 13
-
-  - [page 1](<collection 13/page 1.md>)
-  - [page 2](<collection 13/page 2.md>)
-  - [page 3](<collection 13/page 3.md>)
 
