@@ -24,8 +24,10 @@ jobs:
         with:
           python-version: '3.13'
 
-      - name: Run the script
-        run: python setup.py
+      - name: Clean the folder and run the script
+        run: |
+          rm -rf pages
+          python setup.py
 
       - name: Count wallpapers
         run: |
