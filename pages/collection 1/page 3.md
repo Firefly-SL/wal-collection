@@ -6,6 +6,7 @@
 ![smoky_forest_mountain.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/smoky_forest_mountain.jpg>)
 ![solar_system_colored_sketch.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/solar_system_colored_sketch.jpg>)
 ![someone_on_a_abandoned_bus.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/someone_on_a_abandoned_bus.jpg>)
+![stone_statue_with_gold.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/stone_statue_with_gold.jpg>)
 ![tanjiro_kamado_gruv.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/tanjiro_kamado_gruv.jpg>)
 ![the_bridge_illustration.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/the_bridge_illustration.jpg>)
 ![the_knights.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/the_knights.png>)
