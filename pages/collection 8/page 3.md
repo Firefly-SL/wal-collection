@@ -3,7 +3,6 @@
  | [Next →](<page 4.md>)
 
 
-![Psychedelic image (1).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Psychedelic image (1).png>)
 ![rad_samurai.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/rad_samurai.jpg>)
 ![Red8.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Red8.png>)
 ![red_haired_maid_nature.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/red_haired_maid_nature.png>)
@@ -23,6 +22,7 @@
 ![SkyscraperCity image (101).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/SkyscraperCity image (101).jpg>)
 ![SkyscraperCity image (105).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/SkyscraperCity image (105).jpg>)
 ![some_old_house_nord.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/some_old_house_nord.jpg>)
+![Space & Planets image (10).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Space & Planets image (10).png>)
 
 
 [← Previous](<page 2.md>) | 

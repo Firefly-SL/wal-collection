@@ -3,7 +3,6 @@
  | [Next →](<page 3.md>)
 
 
-![Landscape image (16).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Landscape image (16).jpg>)
 ![Landscape image (4).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Landscape image (4).jpg>)
 ![Landscape image (7).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Landscape image (7).jpg>)
 ![leaves-wall.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/leaves-wall.png>)
@@ -23,6 +22,7 @@
 ![not-so-gruv-city.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/not-so-gruv-city.jpg>)
 ![osaka_castle_with_a_green_roof.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/osaka_castle_with_a_green_roof.jpg>)
 ![painting.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/painting.jpg>)
+![Psychedelic image (1).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Psychedelic image (1).png>)
 
 
 [← Previous](<page 1.md>) | 

@@ -3,7 +3,9 @@
  | [Next →](<page 3.md>)
 
 
+![Japan image (26).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/Japan image (26).jpg>)
 ![Japan image (6).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/Japan image (6).jpg>)
+![kohakunushi_violet_theme.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/kohakunushi_violet_theme.jpg>)
 ![leaves-4.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/leaves-4.jpg>)
 ![marketplace.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/marketplace.jpg>)
 ![mate-drink.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/mate-drink.jpg>)
@@ -21,8 +23,6 @@
 ![mocha50.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/mocha50.jpg>)
 ![mocha56.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/mocha56.png>)
 ![mocha60.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/mocha60.png>)
-![mocha62.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/mocha62.png>)
-![mocha63.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/mocha63.jpg>)
 
 
 [← Previous](<page 1.md>) | 

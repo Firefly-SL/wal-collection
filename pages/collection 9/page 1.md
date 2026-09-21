@@ -15,13 +15,13 @@
 ![dalek.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/dalek.jpg>)
 ![fence.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/fence.jpg>)
 ![flower_desaturated.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/flower_desaturated.jpg>)
+![flower_on_water_catppuccin.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/flower_on_water_catppuccin.jpg>)
 ![forest-river.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/forest-river.jpg>)
 ![girl-reading-book.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/girl-reading-book.jpg>)
 ![greek.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/greek.jpg>)
 ![green4.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/green4.png>)
 ![house-garden.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/house-garden.jpg>)
 ![idk18.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/idk18.png>)
-![Japan image (26).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 9/Japan image (26).jpg>)
 
 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)

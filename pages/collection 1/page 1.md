@@ -21,7 +21,7 @@
 ![excalibur_lake.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/excalibur_lake.jpg>)
 ![eyes_vagabond.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/eyes_vagabond.jpg>)
 ![fd3s_nature.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/fd3s_nature.jpg>)
-![forest_road.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/forest_road.jpg>)
+![FFVII_aeriths_church_joanne_tran_painting.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 1/FFVII_aeriths_church_joanne_tran_painting.jpg>)
 
 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)

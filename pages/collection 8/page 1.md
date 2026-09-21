@@ -19,9 +19,9 @@
 ![Japan image (17).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Japan image (17).jpg>)
 ![Japan image (18).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Japan image (18).jpg>)
 ![Japan image (19).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Japan image (19).jpg>)
-![japnese_house_nord.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/japnese_house_nord.jpg>)
 ![keyboard.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/keyboard.jpg>)
 ![Landscape image (12).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Landscape image (12).jpg>)
+![Landscape image (16).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 8/Landscape image (16).jpg>)
 
 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
