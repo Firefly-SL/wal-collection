@@ -10,6 +10,7 @@
 ![devilrest.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/devilrest.jpg>)
 ![devilslaptop.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/devilslaptop.jpg>)
 ![deviltech.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/deviltech.jpg>)
+![frost_wallpaper_he_took.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/frost_wallpaper_he_took.jpg>)
 ![idk2.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/idk2.png>)
 ![Japan image (2).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/Japan image (2).jpg>)
 ![lain.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/lain.jpg>)
@@ -21,7 +22,6 @@
 ![mocha42.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/mocha42.png>)
 ![mono3.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/mono3.jpg>)
 ![netbsd-light.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/netbsd-light.jpg>)
-![netbsd.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 5/netbsd.jpg>)
 
 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
