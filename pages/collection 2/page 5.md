@@ -1,7 +1,9 @@
 [← Previous](<page 4.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
+ | [Next →](<page 6.md>)
 
 
+![palms.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/palms.jpg>)
 ![panel.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/panel.jpg>)
 ![pixelart_pagoda.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/pixelart_pagoda.jpg>)
 ![pixelated_dark_souls_bonfire.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/pixelated_dark_souls_bonfire.jpg>)
@@ -21,9 +23,9 @@
 ![tools.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/tools.jpg>)
 ![town.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/town.jpg>)
 ![vagabond_sword_water.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/vagabond_sword_water.jpg>)
-![wood.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/wood.jpg>)
 
 
 [← Previous](<page 4.md>) | 
 [Index Menu](https://github.com/Firefly-SL/wal-collection/blob/main/pages/index.md)
+ | [Next →](<page 6.md>)
 

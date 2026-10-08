@@ -3,6 +3,7 @@
  | [Next →](<page 5.md>)
 
 
+![mocha28.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha28.png>)
 ![mocha35.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha35.png>)
 ![mocha52.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha52.jpg>)
 ![mocha53.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha53.png>)
@@ -22,7 +23,6 @@
 ![nordic image (27).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/nordic image (27).jpg>)
 ![nordic image (7).png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/nordic image (7).png>)
 ![oranges.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/oranges.jpg>)
-![palms.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/palms.jpg>)
 
 
 [← Previous](<page 3.md>) | 

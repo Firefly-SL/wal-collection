@@ -12,6 +12,7 @@
 ![forest-foggy-misty-cloudy.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/forest-foggy-misty-cloudy.png>)
 ![forest-hut.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/forest-hut.jpg>)
 ![forest_sky_view.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/forest_sky_view.png>)
+![frosts_wallpaper.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/frosts_wallpaper.jpg>)
 ![gojira.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/gojira.jpg>)
 ![green1.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/green1.png>)
 ![green13.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/green13.png>)
@@ -22,7 +23,6 @@
 ![houses.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/houses.jpg>)
 ![hut.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/hut.jpg>)
 ![idk14.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/idk14.png>)
-![idk6.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/idk6.png>)
 
 
 [← Previous](<page 1.md>) | 

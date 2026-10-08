@@ -16,6 +16,7 @@
   - [page 3](<collection 2/page 3.md>)
   - [page 4](<collection 2/page 4.md>)
   - [page 5](<collection 2/page 5.md>)
+  - [page 6](<collection 2/page 6.md>)
 
 
 ## collection 3

@@ -3,6 +3,7 @@
  | [Next →](<page 4.md>)
 
 
+![idk6.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/idk6.png>)
 ![Japan image (11).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/Japan image (11).jpg>)
 ![Japan image (13).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/Japan image (13).jpg>)
 ![Japan image (14).jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/Japan image (14).jpg>)
@@ -22,7 +23,6 @@
 ![mocha18.jpg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha18.jpg>)
 ![mocha24.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha24.png>)
 ![mocha25.jpeg](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha25.jpeg>)
-![mocha28.png](<https://raw.githubusercontent.com/Firefly-SL/wal-collection/refs/heads/main/collection 2/mocha28.png>)
 
 
 [← Previous](<page 2.md>) | 
